@@ -1,3 +1,17 @@
 Rails.application.routes.draw do
-  # For details on the DSL available within this file, see https://guides.rubyonrails.org/routing.html
+  
+  #post 
+  #get 
+  #patch
+  #delete
+
+  #api calls to the front
+
+  # namespace :api do 
+  #   resources :teams 
+  #   resources :tasks 
+  #   resources :projects 
+  # addtl controllers here
+
+  end 
 end
